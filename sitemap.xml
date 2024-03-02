@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on March 2, 2024 at 1:23 am by All in One SEO v4.5.7.3 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://overmachinery.com/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://overmachinery.com/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-09-09T13:44:49+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://overmachinery.com/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-01-23T19:34:57+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://overmachinery.com/um_profile_tabs-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-09-14T14:10:09+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://overmachinery.com/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-03-01T09:37:12+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://overmachinery.com/author-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-01-23T19:34:57+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://overmachinery.com/date-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-01-23T19:34:57+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
